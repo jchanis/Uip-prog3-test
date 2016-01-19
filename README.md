@@ -1,2 +1,3 @@
-# Uip-prog3-test
-Programación 3
+Javier Chanis
+Primer Repositorio de Prog 3
+Quiz Nº 1
